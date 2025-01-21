@@ -30,6 +30,9 @@ div{
     max-width: 700px;
     margin: 10 auto;
 }
+#reasons{
+    max width: 400;
+}
 img{
     max-width: 200;
     max-height: auto;
